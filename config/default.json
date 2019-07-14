@@ -1,4 +1,0 @@
-{
-    "DB_CONNECTION": "mongodb+srv://read-write-user:12345@travel-flight-cluster-z0frl.gcp.mongodb.net/test?retryWrites=true",
-    "jwtSecret": "sl_myJwtSecret"
-}
